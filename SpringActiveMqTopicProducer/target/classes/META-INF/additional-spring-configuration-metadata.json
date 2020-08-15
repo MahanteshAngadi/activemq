@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "jsa.activemq.borker.password",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.activemq.borker.password'"
+  },
+  {
+    "name": "jsa.activemq.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.activemq.topic'"
+  },
+  {
+    "name": "jsa.activemq.borker.username",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.activemq.borker.username'"
+  },
+  {
+    "name": "jsa.activemq.broker.url",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.activemq.broker.url'"
+  }
+]}

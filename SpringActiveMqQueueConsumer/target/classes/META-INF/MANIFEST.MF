@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringActiveMqQueueConsumer
+Implementation-Version: 0.0.1
+Built-By: mahan-ubuntu
+Implementation-Vendor-Id: com.grokonez.activemq
+Build-Jdk: 1.8.0_242
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringActiveMqQueueConsumer
+Created-By: Maven Integration for Eclipse
+
